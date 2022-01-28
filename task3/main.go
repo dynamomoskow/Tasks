@@ -12,7 +12,7 @@ func main() {
 	}else if chislo >= 100 {
 		fmt.Println(chislo / 100)
 	}else if chislo >= 10 {
-		fmt.Println(chislo / 100)
+		fmt.Println(chislo / 10)
 	}else if chislo < 10 {
 		fmt.Println(chislo)
 	}
