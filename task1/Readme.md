@@ -14,6 +14,7 @@ Sample Input:
 10
 100
 42
+
 Sample Output:
 
 6008
