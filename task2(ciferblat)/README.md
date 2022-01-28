@@ -12,10 +12,10 @@ It is ... hours ... minutes.
 
 Вместо многоточий программа должна выводить значения h и m, отделяя их от слов ровно одним пробелом.
 
- ### Sample Input:
+ Sample Input:
 
 90
 
-### Sample Output:
+Sample Output:
 
 It is 3 hours 0 minutes.
