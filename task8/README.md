@@ -3,6 +3,7 @@
 Sample Input:
 
 5
+
 41 -231 24 49 6
 
 Sample Output:
