@@ -3,6 +3,7 @@
 
 Sample input:
 -000012.2123
+
 Sample output:
 число -12.21 не подходит
 
